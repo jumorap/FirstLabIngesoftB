@@ -45,7 +45,7 @@ public class Main {
                 break;
 
             case 4:
-                Divid div = new Resta();
+                Divid div = new Divid();
                 div.printDivide(inputA, inputB);
                 break;
 
